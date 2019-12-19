@@ -1,0 +1,5 @@
+site_name: Bloxy.js Docs
+theme:
+  name: 'material'
+markdown_extensions:
+- codehilite
