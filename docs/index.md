@@ -1,4 +1,4 @@
-# Welcome to bloxy
+# Welcome to Bloxy
 
 Welcome to the unofficial bloxy docs! This will be used for my personal reference, but I'm opening it up for others until
 there is an official alternative which is updated for the v4 specification.
@@ -20,3 +20,8 @@ If you'd like to check out bloxy, make sure to visit [the repository](https://gi
 const bloxy = require('bloxy');
 const roblox = new bloxy.Client();
 ```
+
+Success! 🎇🎉 
+
+Your project is ready to go. 
+Take a look at our demo projects to have a look at how bloxy works!
